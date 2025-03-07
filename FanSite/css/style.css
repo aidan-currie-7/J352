@@ -1,0 +1,140 @@
+body {
+  background-color:#FFFFFF;
+}
+p {color:#000000;
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+  
+
+h1 {color:#EDCB00;
+  font-family: "Sigmar", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-right: auto;
+  margin-left: auto;
+  font-variation-settings: 
+    "wdth" 100;
+background-color: #00BFF3;
+width: 55%;
+padding: 50px;
+border-radius: 20px;
+text-align: center;
+}
+
+h2 {color:#00BFF3;
+font-family: "Sigmar", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: 
+    "wdth" 100;
+}
+
+figcaption {color:#000000;
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+li {color:#000000;
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.image-space{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.box-shadow {
+      font-family: "Sigmar", sans-serif;
+      background-color: #E3DB00;
+      color: white;
+      padding: 1px;
+      width: 250px;
+      border-radius: 45px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+      margin-right: auto;
+      margin-left: auto;
+      text-align: center;
+      border-radius: 4px;
+      box-shadow: 2px 2px 12px 12px #F4ED29;
+    }
+
+.box-shadow-2 {
+      font-family: "Sigmar", sans-serif;
+      background-color: #E3DB00;
+      color: white;
+      padding: 1px;
+      width: 380px;
+      border-radius: 45px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+      margin-right: auto;
+      margin-left: auto;
+      text-align: center;
+      border-radius: 4px;
+      box-shadow: 2px 2px 12px 12px #F4ED29;
+    }
+
+.color-properties {
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #00BFF3;
+  text-align: center;
+}
+
+.empty-space{
+  padding: 20px;
+}
+
+a {
+  color: yellow;
+}
+
+a:hover {
+  color: #EDCB00;
+}
+.subhead {
+  color:lavender;
+  font-weight: 700;
+  line-height: 2rem;
+}
+
+.leftimage {
+  margin-right: 50px;
+}
+
+.trgrey {
+  background-color: #664;
+}
+
+table, th, td {
+  border: 1px solid #ff0000;
+  padding: 10px;
+}
+
+h2 {color:#000000
+font-family: "Italiana", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: 
+  "wdth" 100;
+}
+
+li {color:#000000}
