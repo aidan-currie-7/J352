@@ -1,0 +1,120 @@
+p {
+	color: white;
+    font-size: 12px;
+}
+
+h1 {
+	color: black;
+    font-size: 50px;
+}
+
+h2 {
+	color: white;
+    font-size: 22px;
+}
+
+.row-one-one{
+	background-color: #E8E8E8;
+	color: black;
+	text-align: left;
+}
+
+.row-two-one{
+    background-color: #ff0000;
+	color: white;
+	text-align: left;	
+}
+
+.row-two-two{
+	background-color: #999999;
+	color: white;
+	text-align: left;
+}
+
+.row-three-one{
+	background-color: #666666;
+	color: white;
+	text-align: left;
+}
+
+.row-three-two{
+	background-color: #333333;
+	color: white;
+	text-align: left;
+}
+
+.row-four-one{
+	background-color: #CFA339;
+	color: white;
+	text-align: left;
+}
+
+.row-four-two{
+	background-color: #55148C;
+	color: white;
+	text-align: left;
+}
+
+.row-four-three{
+	background-color: #376D6A;
+	color: white;
+	text-align: left;
+}
+
+.row-five-one{
+	background-color: #000000;
+	color: white;
+	text-align: left;
+}
+
+.row-five-two{
+	background-color: #008000;
+	color: white;
+	text-align: left;
+}
+
+.row-five-three{
+	background-color: #FF66CC;
+	color: white;
+	text-align: left;
+}
+
+.row-five-four{
+	background-color: #7B3F00;
+	color: white;
+	text-align: left;
+}
+
+.row-six-one{
+	background-color: #FF5733;
+	color: white;
+	text-align: left;
+}
+
+.row-six-two{
+	background-color: #33A2FF;
+	color: white;
+	text-align: left;
+}
+
+.row-six-three{
+	background-color: #5E1769;
+	color: white;
+	text-align: left;
+}
+
+.row-six-four{
+	background-color: #775F66;
+	color: white;
+	text-align: left;
+}
+
+.row-six-five{
+	background-color: #93A496;
+	color: white;
+	text-align: left;
+}
+
+
+
+
