@@ -1,0 +1,81 @@
+.pull-quote{
+	float: center;
+	width: 100%;
+	background: navy;
+	font-weight: bold;
+	padding: 8px;
+	margin: 0 9px 9px 0;
+	font-size: 25px;
+}
+
+blockquote{
+	margin: 0;
+	color: black;
+}
+
+figcaption{
+	font-style: italic;
+	text-align: center;
+	font-size: 15px;
+	font-family: "Sawarbi Mincho", serif;
+}
+
+p{
+	font-family: "Sawarbi Mincho", serif;
+	color: black;
+}
+
+h1{
+	text-align: center;
+	font-family: "Sawarbi Mincho", serif;
+	color: navy;
+
+}
+
+h5{
+	font-weight: bold;
+	font-family: "Sawarbi Mincho", serif;
+	color: navy;
+}
+
+h6{
+	font-weight: bold;
+	font-family: "Sawarbi Mincho", serif;
+}
+
+.image-space{
+	display: flex;
+	justify-content: center;
+}
+
+.video-space{
+	display: flex;
+	justify-content: center;
+}
+.audio{
+	display: flex;
+	justify-content: center;
+}
+
+.sawarabi-mincho-regular {
+  font-family: "Sawarabi Mincho", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a{
+	color: deepskyblue;
+	text-decoration: underline;
+}
+
+hr{
+	height: 2px;
+	border-width: 0;
+	color: navy;
+	background-color: navy;
+}
+
+
+
+
+
