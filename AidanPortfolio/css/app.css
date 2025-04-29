@@ -1,0 +1,126 @@
+
+.sen-<uniquifier> {
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body{ 
+  background-color: #EBFBFF 
+   }
+
+h1 { 
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+  h2 { 
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 1rem;
+  }
+
+h3 { 
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+
+h4 { 
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h5 { 
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h6 { 
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+p { 
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.bio { 
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: <weight>;
+}
+
+.link { 
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+a {
+  text-decoration:underline;
+}
+
+.row-one-flat{
+  text-align: center;
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.row-two-one{
+  align-content: center;
+  text-align: center;
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.row-two-two{
+  align-content: center;
+  text-align: center;
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.row-three-one{
+  align-content: center;
+  text-align: center;
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.row-three-two{
+  align-content: center;
+  text-align: center;
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
