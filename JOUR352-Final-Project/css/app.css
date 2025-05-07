@@ -1,0 +1,158 @@
+h1{
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+p{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 17px;
+}
+
+a{
+  text-decoration: underline;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h3{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  text-align: left;
+}
+
+h4{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+}
+
+h6{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+}
+
+.row-one-one{
+  color: black;
+  padding: 10px;
+}
+
+.row-one-two{
+  text-align: center;
+  color: black;
+}
+
+.row-two-one{
+  text-align: center;
+  color: black;
+  padding: 10px;
+}
+
+.row-two-two{
+  padding-left: 15px;
+  text-align: left;
+  color: black;
+}
+
+.row-three-two{
+	text-align: left;
+	padding-left: 15px;
+}
+
+div.scroll-container {
+  background-color: #E3EDFD;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+
+}
+
+figcaption{
+  font-size: 13px;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+}
+
+
+.josefin-sans-<uniquifier> {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.pull-quote-one{
+	float: center;
+	width: 80%;
+	background: #E3EDFD;
+	font-weight: bold;
+	padding: 10px;
+	margin: 0 9px 9px 0;
+	font-size: 25px;
+	color: black;
+	border-radius: 20px;
+}
+
+.pull-quote-two{
+	float: center;
+	width: 80%;
+	background: #F2E3FD;
+	font-weight: bold;
+	padding: 10px;
+	margin: 0 9px 9px 0;
+	font-size: 25px;
+	color: black;
+	border-radius: 20px;
+}
+
+blockquote{
+	margin: 0;
+	color: black;
+	float: center;
+}
+
+p2{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: black;
+}
+
+.row-seven-one{
+	text-align: center;
+}
+
+li{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: black;
+}
+
+
+
+
